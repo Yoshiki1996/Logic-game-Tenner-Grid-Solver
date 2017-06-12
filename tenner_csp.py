@@ -1,3 +1,7 @@
+'''This project was mediated through Sheila McIlraith and is not 
+to be copy and used for educational purposes which can lead to Academic Integrity'''
+
+
 #Look for #IMPLEMENT tags in this file. These tags indicate what has
 #to be implemented to complete the warehouse domain.  
 

@@ -1,3 +1,6 @@
+'''This project was mediated through Sheila McIlraith and is not 
+to be copy and used for educational purposes which can lead to Academic Integrity'''
+
 import time
 import functools
 
