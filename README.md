@@ -6,6 +6,7 @@
 2. Using the constraint propagators above in order to solve the logic puzzle, Tenner Grid.
 
 **Solution:**
+
 The testings are run through the python files, "csp_sample_run" and "tenner_sample_run". The solutions
 to all the sample problems can be found in the respective text files.
 
